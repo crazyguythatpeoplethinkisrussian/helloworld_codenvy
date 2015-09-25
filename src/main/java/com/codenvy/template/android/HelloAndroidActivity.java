@@ -1,3 +1,5 @@
+//rvincent that guy everyone thinks is russian
+
 package com.codenvy.template.android;
 
 import android.app.Activity;
